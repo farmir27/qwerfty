@@ -1,0 +1,42 @@
+
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta charset="utf-8">
+<body background=1234.jpg>
+<h1> My lastet task for Informatics </h1>
+<a href="http://iat.fs.cvut.cz/pst/web.htm">Another SITE</a>
+<a href="mailto:mirzafarovfarhad@gmail.com">Email Us</a>
+<style>
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+</style>
+<<table style="width:100%">
+  <tr>
+    <th>Firstname</th>
+    <th>Lastname</th> 
+    <th>Age</th>
+  </tr>
+  <tr>
+    <td>Jill</td>
+    <td>Smith</td>
+    <td>50</td>
+  </tr>
+  <tr>
+    <td>Eve</td>
+    <td>Jackson</td>
+    <td>94</td>
+  </tr>
+  <tr>
+    <td>John</td>
+    <td>Doe</td>
+    <td>80</td>
+	</table>
+	
+<h2> LINKS </h2>
+<a href="C:\Users\far2m\Desktop\Новая папка\table.xlsx">EXCEL</a>
+  </tr>
+</body>
+</html>
